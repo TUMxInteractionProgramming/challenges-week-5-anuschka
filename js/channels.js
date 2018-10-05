@@ -46,3 +46,6 @@ var octoberfest = {
     expiresIn: 60,
     messageCount: 321
 };
+
+/** #10 #arr: create an array for channel objects */
+var channels_array = [ yummy, sevencontinents, killerapp, firstpersononmars, octoberfest];
